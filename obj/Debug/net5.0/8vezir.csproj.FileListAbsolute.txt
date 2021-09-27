@@ -1,0 +1,15 @@
+/Volumes/akkurt/www/8vezir/bin/Debug/net5.0/8vezir.deps.json
+/Volumes/akkurt/www/8vezir/bin/Debug/net5.0/8vezir.runtimeconfig.json
+/Volumes/akkurt/www/8vezir/bin/Debug/net5.0/8vezir.runtimeconfig.dev.json
+/Volumes/akkurt/www/8vezir/bin/Debug/net5.0/8vezir.dll
+/Volumes/akkurt/www/8vezir/bin/Debug/net5.0/ref/8vezir.dll
+/Volumes/akkurt/www/8vezir/bin/Debug/net5.0/8vezir.pdb
+/Volumes/akkurt/www/8vezir/obj/Debug/net5.0/8vezir.csprojAssemblyReference.cache
+/Volumes/akkurt/www/8vezir/obj/Debug/net5.0/8vezir.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/akkurt/www/8vezir/obj/Debug/net5.0/8vezir.AssemblyInfoInputs.cache
+/Volumes/akkurt/www/8vezir/obj/Debug/net5.0/8vezir.AssemblyInfo.cs
+/Volumes/akkurt/www/8vezir/obj/Debug/net5.0/8vezir.csproj.CoreCompileInputs.cache
+/Volumes/akkurt/www/8vezir/obj/Debug/net5.0/8vezir.dll
+/Volumes/akkurt/www/8vezir/obj/Debug/net5.0/ref/8vezir.dll
+/Volumes/akkurt/www/8vezir/obj/Debug/net5.0/8vezir.pdb
+/Volumes/akkurt/www/8vezir/obj/Debug/net5.0/8vezir.genruntimeconfig.cache
